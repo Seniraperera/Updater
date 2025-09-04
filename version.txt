@@ -1,1 +1,1 @@
-1.5;https://github.com/Seniraperera/Updater/releases/download/v1.5/upd-1.5.jar
+1.5;https://github.com/Seniraperera/Updater/releases/download/v1.5/upd.jar
