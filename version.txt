@@ -1,0 +1,1 @@
+1.1;https://github.com/YourUser/YourRepo/releases/download/v1.1/MyApp-1.1.jar
